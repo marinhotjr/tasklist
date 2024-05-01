@@ -7,8 +7,10 @@
 - [x] Exercise basic knowledge acquired
 - [x] Helping those who are also learningHelping those who are also learning
 
-![Capture screen app](assets/img/Capture.png)
+> [!TIP]
+> [Click on the image bellow to test the app](https://marinhotjr.github.io/tasklist/)
 
+![Capture screen app](assets/img/Capture.png)
 
 ## Resources Used
 > * HTML, CSS
@@ -28,4 +30,4 @@
 > App suggested as an exercise in the js course [Otávio Miranda - Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?couponCode=ST2MT43024)
 
 
-<center>**Made with love :heart: by @marinhotjr - 2024**</center>
+**Made with love :heart: by @marinhotjr - 2024**
