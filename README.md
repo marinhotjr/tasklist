@@ -8,9 +8,9 @@
 - [x] Helping those who are also learningHelping those who are also learning
 
 > [!TIP]
-> [Click on the image bellow to test the app](https://marinhotjr.github.io/tasklist/)
+> [Click here or on the image bellow to test the app](https://marinhotjr.github.io/tasklist/)
 
-![Capture screen app](assets/img/Capture.png)
+[![Capture screen app](assets/img/Capture.png)](https://marinhotjr.github.io/tasklist/)
 
 ## Resources Used
 > * HTML, CSS
